@@ -1,0 +1,5 @@
+{
+  "name": "Copy of UGC Food Shot Generator",
+  "description": "Upload a food image and this app will use AI to generate a new, UGC-style image featuring a model presenting the dish, perfect for social media ads.",
+  "requestFramePermissions": []
+}
